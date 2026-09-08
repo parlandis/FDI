@@ -8,8 +8,8 @@ Asignatura general dedicada a la Tecnología de la Programación 2.
 
 ## 📚 Proyectos
 
-### [SI](https://github.com/parlandis/SI/tree/pablo)
-Repositorio del proyecto SI desarrollado en Tecnología de la Programación 2.
+### [TP2-P1](https://github.com/parlandis/TP2-P1)
+Repositorio del proyecto TP2-P1 desarrollado en Tecnología de la Programación 2.
 
 ---
 
